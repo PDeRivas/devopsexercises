@@ -1,0 +1,3 @@
+-Finish menu bar
+-Finish page's footer
+-Open git repository
